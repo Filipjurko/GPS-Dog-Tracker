@@ -1,0 +1,10 @@
+This file contains all
+the schematics and pcb designs used in thi project.
+
+It has two boards , transmitter and receiver 
+because it uses an nRF24L01 transciever.
+
+Boards are fairily small so you can manufacture them at
+pcbs.io for about 5$ each. 
+
+Happy making!!!!
